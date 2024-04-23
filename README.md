@@ -3,7 +3,7 @@
 <h3 align="center">Hi, I'm Eduardo Alves, a new programming student.</h3>
 <h3 align="center">Connect with me:</h3>
 <div align="center">  
-  <code><a href="linkedin.com/in/eduardo-teixeira-alves-a30837207/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
+  <code><a href="https://www.linkedin.com/in/eduardo-teixeira-alves-a30837207/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
 </div>
 <br>
 
